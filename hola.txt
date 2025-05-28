@@ -1,3 +1,7 @@
 Lluís saluda
 
+<<<<<<< HEAD
 Contingut des de master
+=======
+Afegim canvis per modificar
+>>>>>>> nova-branca
